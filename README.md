@@ -19,6 +19,9 @@ Here are the steps that I am taking in this project to ensure success.
 3. Create advanced data visualizations to understand features more importantly
 4. Strengthen time series analysis and use models to predict 
 
+### Sample FBProphet Model
+![FBProphet](https://github.com/oliverkpan/USTrafficAccidents/blob/master/images/sample_fbprophet.png?raw=true)
+
 ### Data Source
 
 [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
